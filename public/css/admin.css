@@ -1,0 +1,166 @@
+/*°°°°°°°°°°|CODIGO PARA LA VENTANA MODAL|°°°°°°°°°°°|*/
+#btn-boBuscar:hover{
+	cursor: pointer;
+}
+
+#mimodal{
+	background: black;
+	color: white;
+	padding: 20px 5px 5px 5px !important;
+}
+
+#encabezado{
+width: 100%;
+height: 65px;
+background: url('../images/cabecera.png')no-repeat;
+background-size: 100% 65px;
+
+}
+.ver:hover{cursor: pointer;}
+
+#giipfecha,#bodega,#estado{
+	display: inline-block !important;
+	/*border: 1px solid blue;*/
+	vertical-align: top;
+	width: 32%;
+}
+#giipfecha{
+	color: white;
+
+}
+#giip,#bodegaN,#estado div{
+	width: 100%;
+	font: 30px/20px 'Agency FB';
+	letter-spacing: 3px;
+
+}
+#fecha,#bodegaF{
+	width: 100%;
+	font: 20px/30px 'Agency FB';
+	letter-spacing: 3px;
+	color: rgb(200,200,200);
+}
+#estado{
+	position: relative;
+
+}
+#estado div{
+	position: relative;
+	top: 20px;
+	left: 220px;
+
+}
+/*°°°°°°°°°|CODIGO PARA LA SECCION DE LOS DATOS 2|°°°°°|*/
+#datos1{
+	margin-top: 10px;
+	width: 100%;
+	height: 65px;
+	background: linear-gradient(-180deg,#021C29 50%, #222 50%);
+
+
+}
+#subdatos1{
+	display: inline-block;
+	width: 590px;
+}
+#subdatos2,#subdatos3,#subdatos4,#subdatos5{
+	display: inline-block;
+	width: 100px;
+	margin-left: -4px;
+}
+.datosnegros{
+	padding-top: 25px;
+}
+
+/*°°°°°°°°°°°|CODIGO PARA LA SECCION 3 |°°°°°°°°°°*/
+
+#dejecutores{
+	width: 100%;
+	height: 300px;
+	background: #dbdbdb;
+}
+
+.materiales{
+	width: 68%;
+	height: 300px;
+	overflow: auto;
+display: inline-block;
+	color: black;
+}
+
+.materiales li,.ejecutor li {
+	display: inline-block;
+	text-align: center;
+	height: 20px;
+	list-style: none;
+	color: #333;
+}
+.materiales li.numero {
+	width: 20px;
+	/*border-right: 1px solid black;*/
+}
+.materiales li.mimaterial {
+	width: 450px;
+	/*border-right: 1px solid black;*/
+}
+
+#titulos_materiales{
+	background: #333;
+}
+
+.ejecutor{
+	display: inline-block;
+	width: 30%;
+	height: 220px;
+	vertical-align: top;
+	overflow: auto;
+}
+
+.ejecutor .nombre{
+	width: 70%;
+}
+.ejecutor .id{
+	width: 20%;
+}
+
+#descripciones{
+	position: relative;
+	top: -40px;
+
+	/*border: 1px solid red;*/
+}
+
+#cajondescripcion{
+	width: 65%;
+	display: inline-block;
+	height: 400px;
+	position: relative;
+	/*top: -400px;*/
+}
+#mishoras{
+width: 32%;
+display: inline-block;
+	background: url('../images/horas.png')no-repeat;
+	background-position:  100% 0%;
+	background-size:  contain;
+margin-left: -4px;
+height: 400px;
+}
+
+#misdatos3{
+	background: red;
+}
+
+*{
+	/*border: 1px solid yellow;*/
+}
+#descripciondel{
+	position: relative;
+	top: -300px;
+}
+
+
+/* °°°°°°°||°°°°°°°°° */
+.remove:hover, .icon.add:hover{
+	cursor: pointer;
+}

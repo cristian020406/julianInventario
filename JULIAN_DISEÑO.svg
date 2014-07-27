@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="927px" height="536.28px" viewBox="0 0 927 536.28" enable-background="new 0 0 927 536.28" xml:space="preserve">
+<symbol  id="Barra_de_búsqueda_2_-_Verde" viewBox="-97.241 -16.5 194.482 33">
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-7.348717e-010" y1="16.3669" x2="7.191284e-010" y2="-16.0187">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#DDDFE0"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M-80.741-16.25c-8.961,0-16.251,7.29-16.251,16.25s7.29,16.25,16.251,16.25H80.741
+			c8.961,0,16.251-7.29,16.251-16.25s-7.29-16.25-16.251-16.25H-80.741z"/>
+		<g>
+			<path fill="#C6C7C9" d="M80.741,16c8.823,0,16-7.178,16-16s-7.178-16-16-16H-80.741c-8.823,0-16,7.178-16,16s7.178,16,16,16
+				H80.741 M80.741,16.5H-80.741c-9.113,0-16.5-7.386-16.5-16.5c0-9.111,7.388-16.5,16.5-16.5H80.741c9.113,0,16.5,7.389,16.5,16.5
+				C97.241,9.114,89.854,16.5,80.741,16.5L80.741,16.5z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M-80.734-12.251c-6.755,0-12.251,5.495-12.251,12.25c0,6.755,5.496,12.25,12.251,12.25H80.735
+			c6.754,0,12.25-5.495,12.25-12.25c0-6.755-5.495-12.25-12.25-12.25H-80.734z"/>
+		<g>
+			<path fill="#949699" d="M80.735,11.999c6.617,0,12-5.383,12-12s-5.383-12-12-12H-80.734c-6.617,0-12,5.383-12,12s5.383,12,12,12
+				H80.735 M80.735,12.499H-80.734c-6.893,0-12.5-5.608-12.5-12.5c0-6.893,5.608-12.5,12.5-12.5H80.735
+				c6.892,0,12.5,5.607,12.5,12.5C93.234,6.891,87.627,12.499,80.735,12.499L80.735,12.499z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<radialGradient id="SVGID_2_" cx="81.5511" cy="13.4477" r="21.078" gradientTransform="matrix(1 0 0 1 0.035 0)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#E3E257"/>
+				<stop  offset="1" style="stop-color:#7FB53A"/>
+			</radialGradient>
+			<path fill="url(#SVGID_2_)" d="M80.842-11.66c-6.412,0-11.629,5.218-11.629,11.631c0,6.413,5.217,11.63,11.629,11.63
+				c6.413,0,11.63-5.217,11.63-11.63C92.472-6.443,87.255-11.66,80.842-11.66z"/>
+			<path fill="#608D2F" d="M80.842,11.226c6.206,0,11.255-5.049,11.255-11.255c0-6.207-5.049-11.256-11.255-11.256
+				c-6.206,0-11.254,5.049-11.254,11.256C69.588,6.177,74.636,11.226,80.842,11.226 M80.842,11.976
+				c-6.629,0-12.004-5.375-12.004-12.005c0-6.631,5.375-12.006,12.004-12.006c6.63,0,12.005,5.375,12.005,12.006
+				C92.847,6.601,87.472,11.976,80.842,11.976L80.842,11.976z"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="70.0697" y1="16.2347" x2="83.7727" y2="-4.4516">
+				<stop  offset="0" style="stop-color:#FFFAD6"/>
+				<stop  offset="1" style="stop-color:#010202"/>
+			</linearGradient>
+			<path fill="url(#SVGID_3_)" d="M86.343,2.623c1.871,0.251,3.696,0.27,5.427,0.108c-1.236,4.89-5.659,8.523-10.928,8.523
+				c-6.221,0-11.284-5.062-11.284-11.283c0-2.517,0.838-4.836,2.236-6.715C73.578-2.18,79.233,1.672,86.343,2.623z"/>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path fill="#FFFFFF" d="M88.008-5.178c0.164,0.18,0.15,0.461-0.03,0.625l-3.732,3.39c-0.182,0.163-0.46,0.149-0.624-0.03
+							l-1.333-1.473c-0.163-0.182-0.148-0.461,0.031-0.625l3.732-3.39c0.18-0.164,0.461-0.15,0.623,0.03L88.008-5.178z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFFF" d="M79.06,6.736c2.024,0,3.918-1.27,4.617-3.29c0.883-2.551-0.468-5.332-3.02-6.215
+					c-0.529-0.183-1.068-0.27-1.598-0.27c-2.026,0-3.917,1.268-4.617,3.288c-0.881,2.552,0.47,5.334,3.02,6.217
+					C77.992,6.649,78.531,6.736,79.06,6.736 M79.06,5.411c-0.394,0-0.786-0.066-1.164-0.196l0,0
+					c-0.899-0.312-1.623-0.954-2.039-1.81c-0.416-0.856-0.475-1.822-0.163-2.722c0.497-1.434,1.849-2.398,3.366-2.398
+					c0.395,0,0.787,0.066,1.165,0.197c0.899,0.311,1.623,0.954,2.039,1.809c0.416,0.855,0.475,1.823,0.162,2.723
+					C81.929,4.447,80.578,5.411,79.06,5.411L79.06,5.411z"/>
+			</g>
+		</g>
+	</g>
+</symbol>
+<symbol  id="Botón_1_-_Negro" viewBox="-86.324 -14.526 172.648 29.053">
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-6.648406e-010" y1="14.8101" x2="6.649123e-010" y2="-14.8081">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#DDDFE0"/>
+			</linearGradient>
+			<path fill="url(#SVGID_4_)" d="M-71.796-14.026c-7.735,0-14.028,6.292-14.028,14.026s6.293,14.026,14.028,14.026H71.797
+				c7.734,0,14.027-6.292,14.027-14.026s-6.292-14.026-14.027-14.026H-71.796z"/>
+			<path fill="#C6C7C9" d="M71.797,13.526c7.458,0,13.527-6.068,13.527-13.526s-6.068-13.526-13.527-13.526H-71.796
+				c-7.459,0-13.528,6.068-13.528,13.526s6.068,13.526,13.528,13.526H71.797 M71.797,14.526H-71.796
+				c-8.023,0-14.528-6.502-14.528-14.526c0-8.021,6.504-14.526,14.528-14.526H71.797c8.022,0,14.527,6.506,14.527,14.526
+				C86.324,8.024,79.82,14.526,71.797,14.526L71.797,14.526z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="481.8322" y1="-15883.6172" x2="481.8322" y2="-15891.6816" gradientTransform="matrix(0 -1 1 0 15958.1631 481.8322)">
+				<stop  offset="0" style="stop-color:#706F71"/>
+				<stop  offset="1" style="stop-color:#050607"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_5_)" points="66.416,5.038 75.14,0 66.416,-5.038 			"/>
+			<path fill="#14272A" d="M66.666,4.604L74.64,0l-7.975-4.604V4.604 M66.166,5.471V-5.471L75.64,0L66.166,5.471L66.166,5.471z"/>
+		</g>
+	</g>
+</symbol>
+<symbol  id="Botón_3_-_Azul" viewBox="-72.506 -16.5 145.012 33">
+	<g>
+		
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-1.672561e-009" y1="37.2443" x2="1.044782e-009" y2="-23.2802">
+			<stop  offset="0" style="stop-color:#D2ECFA"/>
+			<stop  offset="1" style="stop-color:#3EA3DB"/>
+		</linearGradient>
+		<path fill="url(#SVGID_6_)" d="M-56.006-16c-8.822,0-16,7.178-16,16s7.178,16,16,16H56.006c8.822,0,16-7.178,16-16
+			s-7.178-16-16-16H-56.006z"/>
+		<path fill="#0080B9" d="M56.006,15.5c8.547,0,15.5-6.953,15.5-15.5s-6.953-15.5-15.5-15.5H-56.006c-8.547,0-15.5,6.953-15.5,15.5
+			s6.953,15.5,15.5,15.5H56.006 M56.006,16.5H-56.006c-9.113,0-16.5-7.386-16.5-16.5c0-9.111,7.387-16.5,16.5-16.5H56.006
+			c9.113,0,16.5,7.389,16.5,16.5C72.506,9.114,65.119,16.5,56.006,16.5L56.006,16.5z"/>
+	</g>
+	<g>
+		<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="-9.404175e-010" y1="20.9477" x2="-1.234041e-011" y2="0.2763">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#010202"/>
+		</linearGradient>
+		<path fill="url(#SVGID_7_)" d="M-56.007,13.498H56.007c8.207,0,14.929-6.42,15.45-14.499c0.021,0.333,0.05,0.663,0.05,1.001
+			c0,8.545-6.955,15.5-15.5,15.5H-56.007c-8.545,0-15.5-6.955-15.5-15.5c0-0.338,0.029-0.668,0.05-1.001
+			C-70.937,7.078-64.214,13.498-56.007,13.498z"/>
+	</g>
+</symbol>
+<symbol  id="Botón_3_-_Naranja" viewBox="-72.506 -16.5 145.012 33">
+	<g>
+		
+			<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-1.672561e-009" y1="37.2443" x2="1.044782e-009" y2="-23.2802">
+			<stop  offset="0" style="stop-color:#FFD302"/>
+			<stop  offset="1" style="stop-color:#F39222"/>
+		</linearGradient>
+		<path fill="url(#SVGID_8_)" d="M-56.006-16c-8.822,0-16,7.178-16,16s7.178,16,16,16H56.006c8.822,0,16-7.178,16-16
+			s-7.178-16-16-16H-56.006z"/>
+		<g>
+			<path fill="#D88118" d="M56.006,15.5c8.547,0,15.5-6.953,15.5-15.5s-6.953-15.5-15.5-15.5H-56.006c-8.547,0-15.5,6.953-15.5,15.5
+				s6.953,15.5,15.5,15.5H56.006 M56.006,16.5H-56.006c-9.113,0-16.5-7.386-16.5-16.5c0-9.111,7.387-16.5,16.5-16.5H56.006
+				c9.113,0,16.5,7.389,16.5,16.5C72.506,9.114,65.119,16.5,56.006,16.5L56.006,16.5z"/>
+		</g>
+	</g>
+	<g>
+		<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="-4.500010e-004" y1="20.9477" x2="-4.500000e-004" y2="0.2763">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#010202"/>
+		</linearGradient>
+		<path fill="url(#SVGID_9_)" d="M-56.006,13.498H56.006c8.209,0,14.93-6.42,15.45-14.499c0.021,0.333,0.05,0.663,0.05,1.001
+			c0,8.545-6.953,15.5-15.5,15.5H-56.006c-8.547,0-15.501-6.955-15.501-15.5c0-0.338,0.029-0.668,0.05-1.001
+			C-70.936,7.078-64.215,13.498-56.006,13.498z"/>
+	</g>
+</symbol>
+<symbol  id="Botón_4_-_Rosa" viewBox="-72.506 -16.5 145.012 33">
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="-6.612026e-010" y1="-14.7273" x2="6.738970e-010" y2="15.01">
+				<stop  offset="0" style="stop-color:#FCECF3"/>
+				<stop  offset="1" style="stop-color:#F299C0"/>
+			</linearGradient>
+			<path fill="url(#SVGID_10_)" d="M-56.006-16c-8.822,0-16,7.178-16,16s7.178,16,16,16H56.006c8.822,0,16-7.178,16-16
+				s-7.178-16-16-16H-56.006z"/>
+			<path fill="#E46C9B" d="M56.006,15.5c8.547,0,15.5-6.953,15.5-15.5s-6.953-15.5-15.5-15.5H-56.006c-8.547,0-15.5,6.953-15.5,15.5
+				s6.953,15.5,15.5,15.5H56.006 M56.006,16.5H-56.006c-9.113,0-16.5-7.386-16.5-16.5c0-9.111,7.387-16.5,16.5-16.5H56.006
+				c9.112,0,16.5,7.389,16.5,16.5C72.506,9.114,65.118,16.5,56.006,16.5L56.006,16.5z"/>
+		</g>
+	</g>
+	<g>
+		
+			<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="-9.500005e-004" y1="17.9678" x2="-9.499995e-004" y2="-5.0322">
+			<stop  offset="0" style="stop-color:#FFFAD6"/>
+			<stop  offset="1" style="stop-color:#010202"/>
+		</linearGradient>
+		<path fill="url(#SVGID_11_)" d="M65.585,6.059c0-4.327-4.501-7.867-10.001-7.867h-111.17c-5.5,0-10,3.54-10,7.867
+			c0,4.324,4.501,7.864,10,7.864h111.17C61.084,13.923,65.585,10.383,65.585,6.059z"/>
+	</g>
+</symbol>
+<symbol  id="Icono_3_-_Abajo" viewBox="-31 -26.281 62 52.563">
+	
+		<radialGradient id="SVGID_12_" cx="2566.8252" cy="28571.9258" r="20.9992" gradientTransform="matrix(1.4762 0 0 0.2143 -3789.1472 -6144.7451)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0982" style="stop-color:#DFDCDB;stop-opacity:0.85"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path fill="url(#SVGID_12_)" d="M31-21.783c0-2.484-13.88-4.498-31-4.498s-31,2.014-31,4.498c0,2.486,13.88,4.502,31,4.502
+		S31-19.297,31-21.783z"/>
+	<g>
+		<g>
+			
+				<radialGradient id="SVGID_13_" cx="-55.0612" cy="-16421.0527" r="25.8767" gradientTransform="matrix(0 -1 1.0152 0 16651.293 -57.5947)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#FDF18B"/>
+				<stop  offset="0.3132" style="stop-color:#FBED58"/>
+				<stop  offset="1" style="stop-color:#F8A91D"/>
+			</radialGradient>
+			<polygon fill="url(#SVGID_13_)" points="-20.851,1.389 -7.154,1.389 -7.153,25.781 7.15,25.781 7.15,1.389 20.851,1.389 
+				0,-20.985 			"/>
+			<g>
+				<path fill="#D88118" d="M6.65,25.281V1.889v-1h1h12.051L0-20.252L-19.701,0.889h12.047h1v1l0.001,23.393H6.65 M7.65,26.281
+					H-7.653L-7.654,1.889H-22L0-21.719L22,1.889H7.65V26.281L7.65,26.281z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="-71.6371" y1="-16519.5645" x2="-43.9711" y2="-16570.8965" gradientTransform="matrix(0 -1 1 0 16528.4219 -57.5947)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#010202"/>
+				</linearGradient>
+				<polygon fill="url(#SVGID_14_)" points="5.539,24.281 5.539,0.689 5.539,-0.318 6.547,-0.318 18.576,-0.318 19.701,0.891 
+					7.65,0.891 6.65,0.891 6.65,1.889 6.65,25.281 -6.654,25.281 -6.654,24.281 				"/>
+			</g>
+			<g>
+				
+					<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="-70.4357" y1="-16518.918" x2="-42.7698" y2="-16570.25" gradientTransform="matrix(0 -1 1 0 16528.4219 -57.5947)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#010202"/>
+				</linearGradient>
+				<polygon fill="url(#SVGID_15_)" points="-8.887,-0.318 -7.879,-0.318 -7.879,0.689 -7.879,0.891 -19.701,0.891 -18.576,-0.318 
+									"/>
+			</g>
+		</g>
+		<g>
+			<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="-14.5725" y1="22.8988" x2="12.7617" y2="-10.4354">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#010202"/>
+			</linearGradient>
+			<path fill="url(#SVGID_16_)" d="M6.65,5.316v19.965H-6.652L-6.654,1.891v-1h-13.048l9.05-9.713
+				C-7.28-3.529-1.176,1.559,6.65,5.316z"/>
+		</g>
+	</g>
+</symbol>
+<symbol  id="Tabulación_2_-_Naranja" viewBox="-66.007 -19.002 132.014 38.004">
+	<g>
+		
+			<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="-6.903065e-010" y1="26.5322" x2="1.350488e-009" y2="-18.9233">
+			<stop  offset="0" style="stop-color:#FBED58"/>
+			<stop  offset="1" style="stop-color:#F8A91D"/>
+		</linearGradient>
+		<path fill="url(#SVGID_17_)" d="M65.992-19.002l0.015,30.161c0,4.314-3.599,7.843-8,7.843H-58.007c-4.401,0-8-3.529-8-7.843
+			l0.015-30.161H65.992z"/>
+	</g>
+	<g>
+		<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="-4.301910e-010" y1="20.739" x2="1.086014e-010" y2="8.7382">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#010202"/>
+		</linearGradient>
+		<path fill="url(#SVGID_18_)" d="M-58.007,16H58.008c3.852,0,6.985-3.059,6.998-6.822l0.001,1.979c0,3.774-3.139,6.845-6.999,6.845
+			H-58.007c-3.86,0-7-3.07-7-6.845l0.001-1.979C-64.993,12.941-61.859,16-58.007,16z"/>
+	</g>
+	<g opacity="0.8">
+		<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="-1.354238e-009" y1="-19.002" x2="3.578479e-010" y2="19.132">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#F39222"/>
+		</linearGradient>
+		<path fill="url(#SVGID_19_)" d="M-64.992-19.002l-0.018,30.162c0,3.784,3.141,6.862,7.002,6.862H58.007c3.86,0,7-3.078,7-6.862
+			l-0.015-30.162h1l0.015,30.161c0,4.314-3.599,7.843-8,7.843H-58.007c-4.401,0-8-3.529-8-7.843l0.015-30.161H-64.992z"/>
+	</g>
+</symbol>
+<rect x="5" y="3.21" fill="#DBDBDB" width="918.308" height="227.069"/>
+<rect x="639.967" y="12.953" fill="#FFFFFF" width="283.341" height="161.561"/>
+<rect x="639.967" y="3.21" fill="#192E4E" width="283.341" height="28.688"/>
+<rect x="1459.579" y="-12.828" fill="#FFFFFF" width="62.359" height="37.125"/>
+<text transform="matrix(1 0 0 1 1419 -150.2205)" font-family="'MyriadPro-Regular'" font-size="12">descripcion trabajo</text>
+<rect x="1127.535" y="-677.946" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="247.105" height="143.662"/>
+<rect x="1132" y="-657.72" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="108" height="34.667"/>
+<rect x="1132" y="-606.115" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="119.088" height="41.061"/>
+<text transform="matrix(1 0 0 1 1160 -647.054)" font-family="'MyriadPro-Regular'" font-size="12">USUARIO</text>
+<text transform="matrix(1 0 0 1 1157.3334 -577.054)" font-family="'MyriadPro-Regular'" font-size="12">CONTRASEÑA</text>
+<text transform="matrix(1 0 0 1 1223.3334 -283.0538)" font-family="'MyriadPro-Regular'" font-size="12">CONTRASEÑA</text>
+<rect x="1112" y="-491.054" fill="#E6007E" width="498.667" height="236.667"/>
+<text transform="matrix(1 0 0 1 1247.3335 -476.387)" font-family="'MyriadPro-Regular'" font-size="12">LABOR PROGRAMADA</text>
+<rect x="1112" y="-244.72" fill="#009640" width="494" height="367"/>
+<rect x="1169" y="-230.075" fill="#FFFFFF" width="41.5" height="16"/>
+<rect x="1228.5" y="-228.825" fill="#FFFFFF" width="38" height="13.5"/>
+<rect x="1291" y="-228.825" fill="#FFFFFF" width="38" height="13.5"/>
+<rect x="1352.5" y="-228.825" fill="#FFFFFF" width="47" height="13.5"/>
+<text transform="matrix(1 0 0 1 1177 -218.5532)" font-family="'MyriadPro-Regular'" font-size="12">GIB</text>
+<text transform="matrix(1 0 0 1 1235 -218.5532)" font-family="'MyriadPro-Regular'" font-size="12">SGO</text>
+<text transform="matrix(1 0 0 1 1299.5 -218.5532)" font-family="'MyriadPro-Regular'" font-size="12">OW</text>
+<text transform="matrix(1 0 0 1 1361.3334 -218.5532)" font-family="'MyriadPro-Regular'" font-size="12">P/E</text>
+<rect x="1418" y="-233.22" fill="#DEDC00" width="177" height="49.5"/>
+<use xlink:href="#Botón_3_-_Azul"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.9059 0 0 -0.6667 1500.6802 -215.3252)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 1435 -195.7354)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 1469 -195.25)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 1500.6803 -194.7647)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 1536.4438 -194.2794)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 1574.9438 -193.7941)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 1432 -191.2205)" font-family="'MyriadPro-Regular'" font-size="12">H</text>
+<text transform="matrix(1 0 0 1 1454.494 -211.9705)" font-family="'MyriadPro-Regular'" font-size="12">FECHA</text>
+<use xlink:href="#Barra_de_búsqueda_2_-_Verde"  width="194.482" height="33" x="-97.241" y="-16.5" transform="matrix(1.1191 0 0 -1.0342 1234.9166 -147.8929)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 1134.5277 -143.8366)" font-family="'MyriadPro-Regular'" font-size="12">TEXTO-FIJO MUNICIOPIO-CORREGIMIENTO</text>
+<use xlink:href="#Botón_4_-_Rosa"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(1.5223 0 0 -2.1818 1234.3706 -90.4568)" overflow="visible"/>
+<use xlink:href="#Icono_3_-_Abajo"  width="62" height="52.563" x="-31" y="-26.281" transform="matrix(0.2818 0 0 -0.2818 1390.7639 -222.2205)" overflow="visible"/>
+<use xlink:href="#Tabulación_2_-_Naranja"  width="132.014" height="38.004" x="-66.007" y="-19.002" transform="matrix(1.6098 0 0 -3.1337 1483.3058 -99.9865)" overflow="visible"/>
+<rect x="1392.602" y="-131.97" fill="#FFFFFF" width="182.341" height="74.25"/>
+<use xlink:href="#Barra_de_búsqueda_2_-_Verde"  width="194.482" height="33" x="-97.241" y="-16.5" transform="matrix(0.6632 0 0 -0.8939 1201.6191 -11.1751)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 1160 -8.4593)" font-family="'MyriadPro-Regular'" font-size="12">consulta codigo</text>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(1 0 0 -1 1416.2471 -7.6689)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 1365.1665 -2.1017)" font-family="'MyriadPro-Regular'" font-size="12">nombre_cargado</text>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.4673 0 0 -1 1540.3794 -7.4583)" overflow="visible"/>
+<text transform="matrix(0.4673 0 0 1 1526.0106 -25.9251)" font-family="'MyriadPro-Regular'" font-size="12">NODO</text>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.4621 0 0 -1 1306.8048 -7.6689)" overflow="visible"/>
+<text transform="matrix(0.4621 0 0 1 1286.5486 -4.6697)" font-family="'MyriadPro-Regular'" font-size="12">codigo</text>
+<rect x="1514.986" y="-17.197" fill="#FFFFFF" width="48.514" height="17.197"/>
+<rect x="1123.994" y="18.78" fill="#FFFFFF" width="479.006" height="99.5"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(1 0 0 -1 1212.2911 42.7795)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 1172.5 46.7805)" font-family="'MyriadPro-Regular'" font-size="12">EJECUTORES</text>
+<rect x="1137.128" y="68.53" fill="#312783" width="140.372" height="46.25"/>
+<use xlink:href="#Botón_3_-_Azul"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.5276 0 0 -0.4848 1189.75 80.7795)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 1157.3334 83.7795)" font-family="'MyriadPro-Regular'" font-size="12">PENSILVANIA</text>
+<polygon points="1254.053,38.78 1260.063,50.78 1269,38.78 "/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(1 0 0 -1 1422.7911 42.7795)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 1383 46.7805)" font-family="'MyriadPro-Regular'" font-size="12">BODEGA</text>
+<polygon points="1464.553,38.78 1470.563,50.78 1479.5,38.78 "/>
+<rect x="1356.5" y="72.78" fill="#FFDE00" width="242" height="42"/>
+<rect x="1363.497" y="77.265" fill="#FFFFFF" width="226.07" height="34.515"/>
+<text transform="matrix(1 0 0 1 1416.2471 73.2644)" font-family="'MyriadPro-Regular'" font-size="12">OBSERVACIONES</text>
+<rect x="1294.5" y="72.78" fill="#DEDC00" width="50.247" height="39"/>
+<text transform="matrix(1 0 0 1 1294.5 86.7795)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">INGRESAR</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">MATERIALES</tspan></text>
+<text transform="matrix(1 0 0 1 1182.5 168.2795)" font-family="'MyriadPro-Regular'" font-size="12">PAGINA PARA INGRESAR MATERIALES</text>
+<rect x="1095.5" y="176.78" fill="#009640" width="525" height="301.5"/>
+<rect x="1442.5" y="161.78" fill="#009640" width="111.5" height="12.5"/>
+<text transform="matrix(1 0 0 1 1449 171.7795)" font-family="'MyriadPro-Regular'" font-size="12">3333</text>
+<rect x="1104.5" y="195.78" width="92" height="17.5"/>
+<rect x="1207.314" y="198.28" width="92" height="17.5"/>
+<rect x="1317.497" y="198.28" width="92" height="17.5"/>
+<text transform="matrix(1 0 0 1 1127 210.7795)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">CODIGO</text>
+<text transform="matrix(1 0 0 1 1223.3334 210.7795)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">DESCRIPCION 1</text>
+<text transform="matrix(1 0 0 1 1335.8334 210.7795)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">DESCRIPCION 2</text>
+<rect x="1438.5" y="198.28" width="138" height="17.5"/>
+<text transform="matrix(1 0 0 1 1468.8336 209.2795)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">CANTIDAD</text>
+<text transform="matrix(1 0 0 1 650 -785.7205)" font-family="'MyriadPro-Regular'" font-size="12">PAGINA CUANDO SE LE DA CANCELAR</text>
+<text transform="matrix(1 0 0 1 809.5847 -701.2179)" font-family="'MyriadPro-Regular'" font-size="12">descripcion trabajo</text>
+<rect x="646.621" y="-770.336" fill="#FFED00" width="38" height="13.5"/>
+<rect x="709.121" y="-770.336" fill="#FFED00" width="38" height="13.5"/>
+<rect x="770.621" y="-770.336" fill="#FFED00" width="47" height="13.5"/>
+<text transform="matrix(1 0 0 1 653.1211 -760.0645)" font-family="'MyriadPro-Regular'" font-size="12">SGO</text>
+<rect x="532.462" y="-771.125" fill="#FFED00" width="93.039" height="13.5"/>
+<text transform="matrix(1 0 0 1 537.4608 -760.0643)" font-family="'MyriadPro-Regular'" font-size="12">SGO ASIGNADA</text>
+<text transform="matrix(1 0 0 1 717.6211 -760.0645)" font-family="'MyriadPro-Regular'" font-size="12">OW</text>
+<text transform="matrix(1 0 0 1 779.4545 -760.0645)" font-family="'MyriadPro-Regular'" font-size="12">P/E</text>
+<rect x="836.121" y="-774.732" fill="#DEDC00" width="177" height="49.5"/>
+<use xlink:href="#Botón_3_-_Azul"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.9059 0 0 -0.6667 918.8013 -756.8365)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 853.1211 -737.2467)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 887.1211 -736.7614)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 918.8014 -736.2761)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 954.5649 -735.7907)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.2001 0 0 -0.4848 993.0649 -735.3054)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 850.1211 -732.7318)" font-family="'MyriadPro-Regular'" font-size="12">H</text>
+<text transform="matrix(1 0 0 1 872.6151 -753.4818)" font-family="'MyriadPro-Regular'" font-size="12">FECHA</text>
+<use xlink:href="#Barra_de_búsqueda_2_-_Verde"  width="194.482" height="33" x="-97.241" y="-16.5" transform="matrix(1.1191 0 0 -1.0342 625.5014 -698.8903)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 525.1124 -694.834)" font-family="'MyriadPro-Regular'" font-size="12">TEXTO-FIJO MUNICIOPIO-CORREGIMIENTO</text>
+<use xlink:href="#Botón_4_-_Rosa"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(1.5223 0 0 -2.1818 624.9553 -641.4543)" overflow="visible"/>
+<use xlink:href="#Icono_3_-_Abajo"  width="62" height="52.563" x="-31" y="-26.281" transform="matrix(0.2818 0 0 -0.2818 808.8851 -763.7318)" overflow="visible"/>
+<use xlink:href="#Tabulación_2_-_Naranja"  width="132.014" height="38.004" x="-66.007" y="-19.002" transform="matrix(1.6098 0 0 -3.1337 873.8905 -650.9839)" overflow="visible"/>
+<rect x="783.187" y="-682.968" fill="#FFFFFF" width="182.341" height="74.25"/>
+<g>
+	
+		<use xlink:href="#Tabulación_2_-_Naranja"  width="132.014" height="38.004" x="-66.007" y="-19.002" transform="matrix(1.6098 0 0 -3.1337 650.5848 -541.1307)" overflow="visible"/>
+	<rect x="559.881" y="-573.115" fill="#FFFFFF" width="182.341" height="74.25"/>
+	<text transform="matrix(1 0 0 1 600.4608 -587.0873)" font-family="'MyriadPro-Regular'" font-size="12">MOTIVO DE CANCELACION</text>
+</g>
+<g>
+	<circle fill="#026E8C" cx="1201.667" cy="-411.72" r="50"/>
+	<text transform="matrix(1 0 0 1 1174 -413.7205)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">ORDENES</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">TRABAJO</tspan></text>
+</g>
+<g>
+	<circle fill="#026E8C" cx="1416.247" cy="-408.054" r="50"/>
+	<text transform="matrix(1 0 0 1 1388.5804 -410.0538)" font-family="'MyriadPro-Regular'" font-size="12">BODEGA</text>
+</g>
+<g>
+	<circle fill="#026E8C" cx="1306" cy="-406.054" r="50"/>
+	<text transform="matrix(1 0 0 1 1278.3334 -408.0538)" font-family="'MyriadPro-Regular'" font-size="12">USUARIOS</text>
+</g>
+<g>
+	<rect x="598.999" y="-157.17" fill="#312783" width="105.333" height="26.667"/>
+	<text transform="matrix(1 0 0 1 600.4606 -140.5028)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">CANCELAR ORDEN</text>
+</g>
+<g>
+	<rect x="738.999" y="-157.17" fill="#312783" width="132.667" height="26.667"/>
+	<text transform="matrix(1 0 0 1 755.6652 -140.5032)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">INGRERAR ORDEN</text>
+</g>
+<g>
+	<rect x="887.999" y="-157.17" fill="#312783" width="132.667" height="26.667"/>
+	<text transform="matrix(1 0 0 1 904.6652 -140.5032)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">CONSULTAR ORDEN</text>
+</g>
+<text transform="matrix(1 0 0 1 635 -169.7056)" font-family="'MyriadPro-Regular'" font-size="12">ORDENES DE TRABAJO</text>
+<use xlink:href="#Botón_1_-_Negro"  width="172.648" height="29.053" x="-86.324" y="-14.526" transform="matrix(1 0 0 -1 591 -77.6941)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 538 -70.7205)" font-family="'MyriadPro-Regular'" font-size="12">CALENDRARIO</text>
+<use xlink:href="#Botón_3_-_Azul"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(1 0 0 -1 760.0676 -77.6941)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 724.5 -74.7205)" font-family="'MyriadPro-Regular'" font-size="12">ESTADO ORDEN</text>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.5448 0 0 -0.697 874.4971 -79.7205)" overflow="visible"/>
+<use xlink:href="#Botón_3_-_Naranja"  width="145.012" height="33" x="-72.506" y="-16.5" transform="matrix(0.5448 0 0 -0.697 988.9971 -77.6941)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 963 -74.7205)" font-family="'MyriadPro-Regular'" font-size="12">CONSULTAR</text>
+<rect x="844.164" y="-87.16" fill="#FFFFFF" width="60.665" height="16.274"/>
+<g>
+	<rect x="179.501" y="153.521" fill="#121528" width="165" height="59.5"/>
+	<text transform="matrix(0.5797 0 0 1 222.0786 194.8217)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="37.2253"> 22123 </text>
+</g>
+<rect x="137.373" y="552.393" fill="none" width="754.256" height="90.636"/>
+<rect x="639.967" y="26.792" fill="#35373F" width="283.341" height="154.911"/>
+<text transform="matrix(1.2325 0 0 1 657 54.5159)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21.9064">hora_mf</text>
+<text transform="matrix(1 0 0 1 652 25.2795)" fill="#FFFFFF" font-family="'Pristina-Regular'" font-size="27">Fecha</text>
+<line fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" x1="769" y1="25.427" x2="769" y2="176.78"/>
+<text transform="matrix(1.1059 0 0 1 815.9353 48.8588)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="22.9814">70:05</text>
+<text transform="matrix(1.1059 0 0 1 786.926 19.81)" fill="#FFFFFF" font-family="'Pristina-Regular'" font-size="22.9814">17 de febrero 10</text>
+<text transform="matrix(1.2325 0 0 1 657 83.7122)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21.9064">hora_mf</text>
+<text transform="matrix(1.1059 0 0 1 815.9353 79.4878)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="22.9814">70:05</text>
+<text transform="matrix(1.2325 0 0 1 657 113.4582)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21.9064">hora_mf</text>
+<text transform="matrix(1.1059 0 0 1 815.9353 110.6938)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="22.9814">70:05</text>
+<text transform="matrix(1.2325 0 0 1 657 142.6546)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21.9064">hora_mf</text>
+<text transform="matrix(1.1059 0 0 1 815.9353 141.3227)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="22.9814">70:05</text>
+<text transform="matrix(1.2325 0 0 1 655 172.1087)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="21.9064">hora_mf</text>
+<text transform="matrix(1.1059 0 0 1 815.9353 167.7084)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="22.9814">70:05</text>
+<rect x="344.501" y="153.521" fill="#F9B122" width="281.499" height="58.197"/>
+<text transform="matrix(1 0 0 1 360.5006 143.8392)" font-family="'Pristina-Regular'" font-size="27">OW</text>
+<text transform="matrix(1 0 0 1 467.5009 143.8393)" font-family="'Pristina-Regular'" font-size="27">SGO</text>
+<text transform="matrix(1 0 0 1 563.5005 143.8393)" font-family="'Pristina-Regular'" font-size="27">P/E</text>
+<rect x="346.501" y="154.051" fill="#D18C13" width="103.955" height="58.197"/>
+<rect x="534.501" y="153.521" fill="#D18C13" width="91.499" height="58.197"/>
+<text transform="matrix(1 0 0 1 357.5005 185.9434)" font-family="'MyriadPro-Regular'" font-size="27">345</text>
+<text transform="matrix(1 0 0 1 464.5005 190.9279)" font-family="'MyriadPro-Regular'" font-size="27">345</text>
+<text transform="matrix(1 0 0 1 240.9225 145.8028)" font-family="'Pristina-Regular'" font-size="27">GIIP</text>
+<g>
+	<rect x="14.578" y="154.021" fill="#121528" width="165" height="59.5"/>
+	<text transform="matrix(0.5797 0 0 1 57.1561 195.3217)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="37.2253"> 293849</text>
+</g>
+<text transform="matrix(1 0 0 1 57.1561 141.3232)" font-family="'Pristina-Regular'" font-size="23">NODO</text>
+<text transform="matrix(1 0 0 1 566 185.9435)" font-family="'MyriadPro-Regular'" font-size="27">E</text>
+<rect x="11" y="276.28" fill="#B7B8BA" width="219" height="221.5"/>
+<path fill="#026E8C" d="M230,283.14c0,6.627-5.373,12-12,12H23c-6.627,0-12-5.373-12-12v-30c0-6.627,5.373-12,12-12h195
+	c6.627,0,12,5.373,12,12V283.14z"/>
+<rect x="242" y="276.28" fill="#B7B8BA" width="219" height="221.5"/>
+<path fill="#026E8C" d="M461,283.14c0,6.627-5.373,12-12,12H254c-6.627,0-12-5.373-12-12v-30c0-6.627,5.373-12,12-12h195
+	c6.627,0,12,5.373,12,12V283.14z"/>
+<text transform="matrix(1 0 0 1 27 327.5295)" font-family="'MyriadPro-Regular'" font-size="23">JUAN ROMAN</text>
+<text transform="matrix(1 0 0 1 27 364.5295)" font-family="'MyriadPro-Regular'" font-size="23">JUAN ROMAN</text>
+<text transform="matrix(1 0 0 1 27 401.5295)" font-family="'MyriadPro-Regular'" font-size="23">JUAN ROMAN</text>
+<text transform="matrix(1 0 0 1 28 435.5295)" font-family="'MyriadPro-Regular'" font-size="23">JUAN ROMAN</text>
+<text transform="matrix(1 0 0 1 27 472.5295)" font-family="'MyriadPro-Regular'" font-size="23">JUAN ROMAN</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="11" y1="332.28" x2="230" y2="332.28"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="11" y1="373.28" x2="230" y2="373.28"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="11" y1="405.28" x2="230" y2="405.28"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="11" y1="446.28" x2="230" y2="446.28"/>
+<rect x="474" y="378.53" fill="#EDEDED" width="442" height="125"/>
+<rect x="486.155" y="268.14" fill="#EDEDED" width="159.845" height="42.502"/>
+<text transform="matrix(1.1825 0 0 1 487.0006 252.4601)" font-family="'Pristina-Regular'" font-size="15.2407">Descripcion del Trabajo</text>
+<text transform="matrix(1.1825 0 0 1 695.0001 252.46)" font-family="'Pristina-Regular'" font-size="15.2407">Municipio y vereda</text>
+<text transform="matrix(1.1825 0 0 1 503.0006 364.5294)" font-family="'Pristina-Regular'" font-size="15.2407">Observacion</text>
+<text transform="matrix(0.6349 0 0 1 498.8755 289.3909)" font-family="'Pristina-Regular'" font-size="15.2407">lorem ipsu dolor sit amet dolor ducrres</text>
+<rect x="657.578" y="268.14" fill="#EDEDED" width="273.422" height="42.502"/>
+<text transform="matrix(1.0861 0 0 1 679.3359 289.3909)" font-family="'Pristina-Regular'" font-size="15.2407">Dorada 1 doc oasio lfjsodfa lajdfoasdfasl</text>
+<rect x="514.501" y="387.03" fill="none" width="319.499" height="121.25"/>
+<text transform="matrix(0.5425 0 0 1 514.5005 414.801)"><tspan x="0" y="0" font-family="'Pristina-Regular'" font-size="33">lorem ipsu dolor sit amet dolor ducrres  lorem ipsu dolor </tspan><tspan x="0" y="39.6" font-family="'Pristina-Regular'" font-size="33">sit amet dolor ducrreslorem ipsu dolor sit amet dolor </tspan><tspan x="0" y="79.2" font-family="'Pristina-Regular'" font-size="33">ducrres</tspan></text>
+<text transform="matrix(1.3104 0 0 1 41.5781 67.7795)" fill="#192E4E" font-family="'Pristina-Regular'" font-size="32.9033">ACTIVO</text>
+<text transform="matrix(1.3104 0 0 1 257.9999 25.4272)" fill="#192E4E" font-family="'Pristina-Regular'" font-size="22.3018">Bodega</text>
+<text transform="matrix(1.3104 0 0 1 257.9999 67.7797)" fill="#192E4E" font-family="'Pristina-Regular'" font-size="25">circuito</text>
+<text transform="matrix(1.008 0 0 1 262.0005 276.2797)" fill="#E9E9EA" font-family="'Pristina-Regular'" font-size="27.4758">MATERIALES</text>
+<text transform="matrix(1.008 0 0 1 33.0005 276.2799)" fill="#E9E9EA" font-family="'Pristina-Regular'" font-size="27.4758">EJECUTORES</text>
+<text transform="matrix(1 0 0 1 380.5006 25.4272)" font-family="'Pristina-Regular'" font-size="25">manizales seccion 3</text>
+<text transform="matrix(1 0 0 1 380.5007 67.7797)" font-family="'Pristina-Regular'" font-size="25">risaralda poste 3 accion2</text>
+</svg>
