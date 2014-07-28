@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://www.mantenimiento.com/';
+$config['base_url']	= 'http://localhost/almacen/';
 
 /*
 |--------------------------------------------------------------------------
@@ -26,7 +26,7 @@ $config['base_url']	= 'http://www.mantenimiento.com/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -224,8 +224,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = 'lksjdfklajskldjfañlkjsdflkajsdlkfaj';
-
+$config['encryption_key'] = 'abcdijsh339ys3ensjeusx89273';
 
 /*
 |--------------------------------------------------------------------------
@@ -246,8 +245,8 @@ $config['encryption_key'] = 'lksjdfklajskldjfañlkjsdflkajsdlkfaj';
 |
 */
 $config['sess_cookie_name']		= 'ci_session';
-$config['sess_expiration']		= 86400;
-$config['sess_expire_on_close']	= TRUE;
+$config['sess_expiration']		= 7200;
+$config['sess_expire_on_close']	= FALSE;
 $config['sess_encrypt_cookie']	= FALSE;
 $config['sess_use_database']	= FALSE;
 $config['sess_table_name']		= 'ci_sessions';
