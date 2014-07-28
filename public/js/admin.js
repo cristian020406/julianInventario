@@ -2,6 +2,21 @@ $(document).on('ready',function(){
 
 	$(document).on('click','#nUsuario',usuario);
 	$(document).on('click','#btn-Agrega-orden',cVistaNuevaOrden);
+	$('#respuesta').on('click','#btn-conCir',carga_circuito);
+	$('#respuesta').on('click','#bt-eje',agregaEjecutor);
+	$('#respuesta').on('click','#ingresarMater',AgregaMateriales);
+	$('#respuesta').on('blur','#eGIIP',verificarGiip);
+	$('#respuesta').on('click','#guarddOrden',RegistrarOrden);
+	$('#respuesta').on('keyup','#idMa',function  (e) {
+		
+	if ( e.which==13) {
+
+		 	BuscaMaterial();
+		}
+
+	});
+	$('#respuesta').on('click','#btn-idMa',BuscaMaterial);
+
 })
 
 
@@ -70,6 +85,7 @@ vista = 'cNuevaOrden'
 	     	$('#respuesta').html(data);
 	     		$('.ui.dropdown').dropdown();
 	     		calendarioEs();
+	     	 $('#respuesta').on('change','#EstadoConsultaOrden',EstadoConsultaOrden);
 			 $( "#btn-fIorden" ).datepicker({dateFormat: 'yy-mm-d'});
 			 validar_datos();
 			 	
@@ -77,9 +93,36 @@ vista = 'cNuevaOrden'
 
 		});
 	   
+function EstadoConsultaOrden () {
+	estadoo = $('#EstadoConsultaOrden').dropdown('get value');
+			url = $('#url').text();
+	    $.post(url+'index.php/consultas/estadoOrden1',{tipoVista:estadoo},function(data){
+	    	$('#respuesta').html(data);
+	     		$('.ui.dropdown').dropdown();
+	     		$('#btn-fIorden').datepicker({dateFormat: 'yy-mm-d'});
+	    });
+
+}
+
 
 
 };
+function verificarGiip () {
+
+giip = $('#eGIIP');
+	    $.post(url+'index.php/consultas/estagiip',{giip:giip.val()},function(data){
+	    	if(data == '' || data == 0) {
+	    		
+	    	}else{
+	    		alert('ese giip ya esta ');
+	    		giip.val('');
+	    		giip.focus();
+	    	}
+	    });
+
+
+
+}
  function validar_datos () {
 
 // console.log('test');
@@ -99,7 +142,7 @@ function agregaEjecutor () {
 	ejecutorcam=$('#datos-ejecutor');
 	ejecutorActual=$('#miejecutor').dropdown('get text');
 	idEjecutorActual=$('#miejecutor').dropdown('get value');
-	datos = "<tr><td>"+ejecutorActual+"</td><td> <i onclick='remueveme(this)' class='icon red large remove'></i></td></tr>";
+	datos = "<tr><td class='ejeNombre' data-ejecutor='"+idEjecutorActual+"' >"+ejecutorActual+"</td><td> <i onclick='remueveme(this)' class='icon red large remove'></i></td></tr>";
 	ejecutorcam.append(datos);
 }
 function remueveme (elemento) {
@@ -115,12 +158,117 @@ function cOrdenes () {
   			$('#res-ClienteBuscado').html(data);
   			$('.ver').on('click',consultaDetalleOrden);
 	})
-  	 
- 
-// console.log(estado);
 
 }
+function BuscaMaterial () {
 
+	console.log('BuscaMaterial');
+	material = $('#idMa').val();
+	campoNombreMa= $('#cam-busM');
+	// datosDeMateriales = $('#datosDeMateriales');
+
+  $.post(url+'index.php/consultas/consultaMaterial',{material:material},function(data){
+
+  		campoNombreMa.remove();
+  		$('#desMate').remove();
+  		$('#thMaterial').after(data);
+  	})
+}
+// funcion que agrega el nodo y el material cuando se le da click
+	function AgregaMateriales () {
+
+	material = $('#idMa').val();
+	campoNombreMa= $('#cam-busM').text();
+	campodesMa= $('#desMate').text();
+	datosDeMateriales = $('#datosDeMateriales');
+	nodo = $('#nodoBs').val();
+	cantidadMa = $('#cantidadMate');
+			if ($('#cam-busM').hasClass('error')) {
+				alert('no es valido el material que selecciono');
+				$('#idMa').focus();
+				return false;
+			}
+			if (material == "" || material == null) {
+			alert('ud no ha seleccionado ningun material');
+				$('#idMa').focus();
+
+			return false;
+			}
+			if (nodo == "" || nodo == null) {
+				alert('no ha seleccionado el nodo');
+				$('#nodoBs').focus();
+
+				return false;
+			}
+			if (cantidadMa.val() == "" || cantidadMa.val() == 0) {
+				alert('no ha seleccionado la cantidad');
+				cantidadMa.focus();
+
+				return false;
+
+			}
+
+
+	materialdato="<tr><td class='idMaterialC' data-idM="+material+">"+material+"</td><td colspan='2' >"+campoNombreMa+"</td><td colspan='5' >"+campodesMa+"</td><td class='idCanti' data-cantidad="+cantidadMa.val()+"  >"+cantidadMa.val()+"</td><td class='idNodoC' data-nodo="+nodo+" >"+nodo+"</td><td > <i onclick='remueveme(this)' class='icon red large remove'></i></td></tr>";
+	datosDeMateriales.append(materialdato);
+	}
+
+
+/*funcion para registrar la orden en la base de datos*/
+function RegistrarOrden () {
+		fecha = $('#btn-fIorden').val();
+		HD = $('#hhd').val();
+		HI = $('#hHI').val();
+		HF = $('#hHF').val();
+		MI = $('#hMI').val();
+		MF  = $('#hMF').val();
+		GIIP = $('#eGIIP').val();
+		SGO = $('#eSGO').val();
+		OW = $('#eOW').val();
+		pqt = $('#epqt').val();
+		Pe = $('#Pe').dropdown('get value');
+		ID_CIRCUITO = $('#cam-conCir').val();
+		municipio = $('#emunicipio').val();
+		bodega = $('#ebodega').dropdown('get value');
+		observaciones = $('#txobserv').val();
+		var cjEjecutores = document.querySelectorAll('#datos-ejecutor td.ejeNombre');
+		var idM = document.querySelectorAll('#datosDeMateriales td.idMaterialC');
+		var idC = document.querySelectorAll('#datosDeMateriales td.idCanti');
+		var idN = document.querySelectorAll('#datosDeMateriales td.idNodoC');
+
+		var numeroEje = new Array;
+		var idMA = new Array;
+		var idCA = new Array;
+		var idNA = new Array;
+		for (var i = 0; i < cjEjecutores.length; i++) {
+			if(cjEjecutores[i].getAttribute('data-ejecutor')){
+				numeroEje.push(cjEjecutores[i].getAttribute('data-ejecutor'));
+			}
+		}
+		for (var i = 0; i < idM.length; i++) {
+
+			if(idM[i].getAttribute('data-idM')){
+				idMA.push(idM[i].getAttribute('data-idM'));
+			}
+			if(idC[i].getAttribute('data-cantidad')){
+				idCA.push(idC[i].getAttribute('data-cantidad'));
+			}
+			if(idN[i].getAttribute('data-nodo')){
+				idNA.push(idN[i].getAttribute('data-nodo'));
+			}
+
+		}
+		contador = numeroEje.length;
+		contador1 = idM.length;
+	console.log(idNA,idCA,idMA);
+	$.post(url+'index.php/consultas/RegistrarOrden',{ fecha: fecha,HD: HD,HI: HI,HF: HF,MI: MI,MF: MF,GIIP: GIIP,SGO: SGO,OW: OW,pqt: pqt,Pe: Pe,ID_CIRCUITO: ID_CIRCUITO,municipio: municipio,bodega: bodega,observaciones: observaciones,numeroEje:numeroEje, contador:contador,idNA:idNA,idCA:idCA,idMA:idMA,contador1:contador1}, function(data) {
+
+		confirm('se registro correctamente la orden');
+		window.location= url;
+	});
+
+
+}
 
 /*°°°°°°°°°°|CODIGO PARA LA VENTANA MODAL|°°°°°°°°°°°°°°°°°*/
 

@@ -140,6 +140,14 @@ public function materialPorOrden($giip)
 		->get('circuitos');
 		return $consulta->row_array();
 	}
+	public function consultaMaterial($idMaterial)
+	{
+		$where = array('n_articulo' =>$idMaterial);
+		$consulta = $this->db->select('*')
+		->where($where)
+		->get('materiales');
+		return $consulta->row_array();
+	}
 	public function bodegas()
 	{
 		$consulta = $this->db->select('id_bodega, nombre_bodega')

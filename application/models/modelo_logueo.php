@@ -25,6 +25,7 @@ class Modelo_logueo extends CI_Model
 
 	}
 
+
 }
 
 

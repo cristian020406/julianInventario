@@ -7,7 +7,6 @@ $("#usuario,#clave").on('keypress',function (e) {
 		 	logeando();
 		}
 	})
-
 function logeando (argument) {
 		  	usuario= $('#usuario').val();
 	  	clave= $('#clave').val();

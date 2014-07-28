@@ -5,7 +5,7 @@ $(document).on('ready',function(){
 
 
 function ordenes () {
-	alert('hola');
+	// alert('hola');
 vista = 'ordenes'
 		url = $('#url').text();
 	    $.post(url+'index.php/Vistas/vista_orden',{vista:vista},function(data){		
